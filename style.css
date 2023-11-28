@@ -238,7 +238,7 @@ input[type=checkbox] {
 @media(max-width:769px){
   .mainContent{
     background-size:100% 70% ;
-    margin-top: -35px;
+    margin-top: -88px;
   }
   .paragraphContent{
     box-sizing: border-box;
@@ -256,7 +256,7 @@ input[type=checkbox] {
 @media(max-width:504px){
   .mainContent{
     background-size:100% 60% ;
-    margin-top: -68px;
+    margin-top: -118px;
   }
   .paragraphContent{
     box-sizing: border-box;
@@ -275,7 +275,7 @@ input[type=checkbox] {
 @media(max-width:361px){
  .mainContent{
   background-size:100% 50% ;
-  margin-top: -105px;
+  margin-top: -121px;
  }
 
  .paragraphContent{
@@ -433,10 +433,17 @@ input[type=checkbox] {
   
 }
 
+@media(max-width:1025px){
+  #orderList{
+    
+    margin-top: -75px;
+  }
+}
+
 @media(max-width:769px){
   #orderList{
     margin-bottom: 0;
-    margin-top: -58px;
+    margin-top: -106px;
     font-size: 35px
   }
 
@@ -459,7 +466,7 @@ font-size: 13px;
 @media(max-width:504px){
   #orderList{
     margin-bottom: 0;
-    margin-top: -94px;
+    margin-top: -131px;
 
   }
   #orderList{
@@ -474,7 +481,7 @@ font-size: 13px;
 
 @media(max-width:361px) {
 #orderList{
-  margin-top: -105px;
+  margin-top: -121px;
   font-size: 26px;
 }
 .bottom{
