@@ -253,6 +253,10 @@ input[type=checkbox] {
   }
 }
 
+@media(max-width:530px){
+    .paragraphContent{ padding: 6px 12px;}
+}
+
 @media(max-width:504px){
   .mainContent{
     background-size:100% 60% ;
@@ -260,7 +264,7 @@ input[type=checkbox] {
   }
   .paragraphContent{
     box-sizing: border-box;
-    padding: 17px 13px;
+    padding: 14px 13px;
   }
   .paragraphContent h1{
     letter-spacing: 1px;
@@ -450,7 +454,7 @@ input[type=checkbox] {
   .order1{
     height: 291px;
     width: 236px;
-    margin-top: 142px;
+    margin-top: 111px;
   }
   .bottomOrder h4{
 font-size: 13px;
